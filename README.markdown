@@ -1,17 +1,16 @@
-#Twidere - Twitter client, ∞#
+# Twidere - Twitter client, ∞ #
 
 Twidere is an open source Twitter client for Android.
 
-##Repositories
+## Repositories ##
 
-###[Android version](https://github.com/TwidereProject/Twidere-Android/)##
+### [Android version](https://github.com/TwidereProject/Twidere-Android/) ##
 
 [Report issues](https://github.com/TwidereProject/Twidere-Android/issues)
 
-###iOS version (Planning, but development not yet started)###
+### [iOS version](https://github.com/TwidereProject/Twidere-iOS/) ##
 
-###Modern Windows version (Planning, but development not yet started)###
-
+[Report issues](https://github.com/TwidereProject/Twidere-iOS/issues)
 
 ## Support my work ##
 
@@ -23,11 +22,7 @@ I started a crowdin project, so anyone can do something for Twidere. Visit this 
 
 **Donation methods**
 
-* Me: mariotaku.lee[AT]gmail.com
-
-* Our designer: pay[AT]uucky.me
-
-PayPal & Alipay accepted.
+PayPal & Alipay: mariotaku.lee[AT]gmail.com
 
 Bitcoin: 1FHAVAzge7cj1LfCTMfnLL49DgA3mVUCuW
 
